@@ -8,8 +8,7 @@
 [5. 变量的重新声明](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable5.go)  
 
 #### [第二章节  条件语句](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5)   
-[1. if单支和多支条件语句的使用](https://github.com/Echo-Mr-Pengw/Go-Notes/
-blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/if.go)    
+[1. if单双支条件语句的使用](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/if.go)     
 [2. switch条件语句的使用及注意事项](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/switch.go)  
 [3. fallthrough（switch穿透）的使用及注意事项](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/switchFallthrough.go)  
 
