@@ -2,7 +2,9 @@
 
 package main 
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 
@@ -10,6 +12,6 @@ func main() {
 
 	var ptr *int = &i
 
-	//& 取地址  *表示输出指针指向地址的值
+	// & 取地址  *表示输出指针指向地址的值
 	fmt.Println(&i, *ptr);
 }

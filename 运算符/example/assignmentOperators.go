@@ -1,12 +1,14 @@
-//赋值运算符
+// 赋值运算符
 
 package main 
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 
-	//声明并初始化变量
+	// 声明并初始化变量
 	i := 1
 
 	// +=  
