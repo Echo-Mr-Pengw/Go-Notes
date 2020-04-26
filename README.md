@@ -1,19 +1,16 @@
-
-`客官，留下你的赞；成为我的粉丝，一起上车哦！评论区欢迎你的留言`
-
-[Golang基础入门笔记](https://github.com/Echo-Mr-Pengw/Go-Notes)，代码示例都放在[GitHub](https://github.com/Echo-Mr-Pengw/Go-Notes)上，后面会不断更新，出现有误，请各位读者指出。欢迎`Star`和`Fork`
-## 主要分为以下章节
- #### [第一章节  变量](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/%E5%8F%98%E9%87%8F)
-[1. 一次性声明单个变量的三种方式](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable1.go)
-[2. 一次性声明多个变量的三种方式](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable2.go)
-[3. 全局变量的声明](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable3.go)
-[4. 变量的重新赋值](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable4.go)
-[5. 变量的重新声明](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable5.go)
-####  [第二章节  条件语句](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5)
-[1. if单支和多支条件语句的使用](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/if.go)
-[2. switch条件语句的使用及注意事项](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/switch.go)
-[3. fallthrough（switch穿透）的使用及注意事项](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/switchFallthrough.go)
-####  [第三章节  循环语句](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5)
+[Golang基础入门笔记](https://github.com/Echo-Mr-Pengw/Go-Notes)，代码示例都放在[GitHub](https://github.com/Echo-Mr-Pengw/Go-Notes)上，后面会不断更新，出现有误，请各位读者指出。欢迎`Star`和`Fork`   
+## 主要分为以下章节  
+#### [第一章节  变量](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/%E5%8F%98%E9%87%8F)   
+[1. 一次性声明单个变量的三种方式](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable1.go)   
+[2. 一次性声明多个变量的三种方式](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable2.go)  
+[3. 全局变量的声明](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable3.go)  
+[4. 变量的重新赋值](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable4.go)  
+[5. 变量的重新声明](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%8F%98%E9%87%8F/example/variable5.go)  
+#### [第二章节  条件语句](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5)   
+[1. if单支和多支条件语句的使用](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/if.go) 
+[2. switch条件语句的使用及注意事项](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/switch.go)  
+[3. fallthrough（switch穿透）的使用及注意事项](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5/example/switchFallthrough.go)  
+####  [第三章节  循环语句](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5)  
 [1. for循环语句声明及使用的三种方式](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/example/for.go)
 [2. goto语句的使用](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/example/goto.go)
 
