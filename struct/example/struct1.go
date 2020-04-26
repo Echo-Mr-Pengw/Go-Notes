@@ -1,8 +1,10 @@
-//结构体的定义及声明
+// 结构体的定义及声明
 
 package main 
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type User struct {
 	Name string

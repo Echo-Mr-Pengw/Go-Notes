@@ -2,7 +2,9 @@
 
 package main 
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type User struct {
 	Name string
