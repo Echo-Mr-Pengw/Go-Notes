@@ -9,7 +9,6 @@ import (
 func main() {
 
 	i := 1
-
 	var ptr *int = &i
 
 	// & 取地址  *表示输出指针指向地址的值
