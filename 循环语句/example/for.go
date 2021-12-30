@@ -31,4 +31,10 @@ func main() {
 
 		k++
 	}
+
+	// for循环内的局部变量会被重复利用
+	a := [2]int{1, 2}
+	for i, v := range a {
+		fmt.Println(&i, &v)   // &i &v的地址是相同的
+	}
 }
