@@ -84,3 +84,6 @@
 [2. 声明单向管道 可写或者可读](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/channel/example/chan2.go)    
 [3. select 解决管道阻塞问题](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/channel/example/chan3.go)    
 
+#### [第十六章节 testing](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/testing)    
+[1. 单测使用及注意事项](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/testing/example/)    
+
