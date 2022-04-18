@@ -87,3 +87,8 @@
 #### [第十六章节 testing](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/testing)    
 [1. 单测使用及注意事项](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/testing/example/)    
 
+#### [第十七章节 反射](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/反射)    
+[1. TypeOf和ValueOf的使用](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/反射/example/reflect1.go)   
+[2. 获取结构体相关信息](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/反射/example/reflect2.go) 
+[3. 通过Elem修改变量的值](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/反射/example/reflect3.go) 
+
