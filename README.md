@@ -92,3 +92,7 @@
 [2. 获取结构体相关信息](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/反射/example/reflect2.go) 
 [3. 通过Elem修改变量的值](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/反射/example/reflect3.go) 
 
+#### [第十八章节 标签](https://github.com/Echo-Mr-Pengw/Go-Notes/tree/master/label)    
+[1. goto与label](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/label/example/goto.go)   
+[2. break与label](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/label/example/break.go) 
+[3. continue与label](https://github.com/Echo-Mr-Pengw/Go-Notes/blob/master/label/example/continue.go) 
